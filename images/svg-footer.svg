@@ -1,0 +1,11 @@
+<svg width="121" height="33" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_3_blur">
+   <feGaussianBlur stdDeviation="0.2" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text filter="url(#svg_3_blur)" transform="matrix(0.922264 0 0 1 -0.038868 0)" stroke="#fff" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_3" y="23.5" x="0.37251" fill="#ffffff">Naif alzrigat</text>
+ </g>
+</svg>
